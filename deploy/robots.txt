@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /panel-x9k4q.html
-
-Sitemap: https://korshi-site.vercel.app/sitemap.xml
